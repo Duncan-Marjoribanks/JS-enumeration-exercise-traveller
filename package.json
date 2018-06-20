@@ -1,7 +1,6 @@
 {
-  "name": "hw_callbacks_enumeration_context_traveller_end",
+  "name": "traveller",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha specs"
@@ -10,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^5.0.5"
-  }
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duncan-Marjoribanks/JS-enumeration-exercise-traveller.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Duncan-Marjoribanks/JS-enumeration-exercise-traveller/issues"
+  },
+  "homepage": "https://github.com/Duncan-Marjoribanks/JS-enumeration-exercise-traveller#readme",
+  "description": ""
 }
