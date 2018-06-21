@@ -19,5 +19,8 @@
     "url": "https://github.com/Duncan-Marjoribanks/JS-enumeration-exercise-traveller/issues"
   },
   "homepage": "https://github.com/Duncan-Marjoribanks/JS-enumeration-exercise-traveller#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
 }
